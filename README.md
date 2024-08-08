@@ -9,3 +9,4 @@ para ejecutar el sistema, debes poner:
 Sistema de Rgisstro 2
 
 Sistema de Registro 3
+Sistema de registro 2
